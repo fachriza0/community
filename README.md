@@ -1,2 +1,19 @@
 # community
 App that helps you finds new community, or you finds the community.
+
+MVP :       - Helps you to find new community to your liking
+            - Join on a group study, fun football team, someone to teach you basketball, and many more!!!
+            - Connects you to the other end with no gimmick.
+
+Tech Stack :  - Front-end : React, Vite, Router, Context.
+              - Back-end : Node, Express
+              - Database: MongoDB, Mongoose
+
+Day 1:
+  Problem :   - No knowledge in these language i'm about to dive in
+              - No setup has been made
+              - Design is still a wireframe
+
+  Solution :  - Learn 'em all
+              - Look into the docs for setup
+              - Design will be made after i can stand on my own
