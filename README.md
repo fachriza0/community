@@ -1,5 +1,5 @@
 # community
-App that helps you finds new community, or you finds the community.
+App that helps you finds new community, or the community finds you.
 
 MVP :       - Helps you to find new community to your liking
             - Join on a group study, fun football team, someone to teach you basketball, and many more!!!
