@@ -11,7 +11,7 @@ Tech Stack :  - Front-end : React, Vite, Router, Context.
 
 Day 1:
   Problem :   - No knowledge in these language i'm about to dive in
-              - No setup has been made
+              - No setup has been made * Setup files has been made
               - Design is still a wireframe
 
   Solution :  - Learn 'em all
