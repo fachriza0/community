@@ -17,3 +17,7 @@ Day 1:
   Solution :  - Learn 'em all
               - Look into the docs for setup
               - Design will be made after i can stand on my own
+
+Day 2:
+  Plans :   - Get started on react by learning while doing.
+            - Don't Give Up.
