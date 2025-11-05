@@ -8,6 +8,9 @@ MVP :       - Helps you to find new community to your liking
 Tech Stack :  - Front-end : React, Vite, Router, Context.
               - Back-end : Node, Express
               - Database: MongoDB, Mongoose
+Day 3:
+  Plans :   - Find out how to open the tabs
+            - If tabs were accessible, slowly assemble wireframe
 
 Day 2:
   Plans :   - Get started on react by learning while doing.
