@@ -20,6 +20,7 @@ Day 3:
   Development : - Knew basic routing and nested routing.
                 - Bun is now much more powerful than the others
                 - Basic routing to signup, login and app page is established.
+                 - Started developing login, signup, and app pages
 
 
 Day 2:
