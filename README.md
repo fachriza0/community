@@ -8,9 +8,18 @@ MVP :       - Helps you to find new community to your liking
 Tech Stack :  - Front-end : React, Vite, Router, Context.
               - Back-end : Node, Express
               - Database: MongoDB, Mongoose
+
+
+NOTE: Create app page using parameter ID. ParameterID = account number. How to keep it safe?
+              
 Day 3:
   Plans :   - Find out how to open the tabs
             - If tabs were accessible, slowly assemble wireframe
+  Problems :   - Find out how to use authentication system
+               - Haven't made any wireframe yet
+  Growth : - Knew basic routing and nested routing.
+           - Bun is now much more powerful than the others
+
 
 Day 2:
   Plans :   - Get started on react by learning while doing.
