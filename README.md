@@ -17,8 +17,9 @@ Day 3:
             - If tabs were accessible, slowly assemble wireframe
   Problems :   - Find out how to use authentication system
                - Haven't made any wireframe yet
-  Growth : - Knew basic routing and nested routing.
-           - Bun is now much more powerful than the others
+  Development : - Knew basic routing and nested routing.
+                - Bun is now much more powerful than the others
+                - Basic routing to signup, login and app page is established.
 
 
 Day 2:
