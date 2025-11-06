@@ -11,6 +11,16 @@ Tech Stack :  - Front-end : React, Vite, Router, Context.
 
 
 NOTE: Create app page using parameter ID. ParameterID = account number. How to keep it safe?
+
+Day 4:
+  Plans :   - Work on Wireframe
+            - Apply authentication on login and signup
+  Problems :   - 
+               - 
+  Development : - 
+                - 
+                - 
+                 - 
               
 Day 3:
   Plans :   - Find out how to open the tabs
