@@ -12,15 +12,18 @@ Tech Stack :  - Front-end : React, Vite, Router, Context.
 
 NOTE: Create app page using parameter ID. ParameterID = account number. How to keep it safe?
 
+Day 5:
+  Plans :   - Figure out Tailwind
+  Problems :   - Need more time on the day
+  Development : - Tailwind and router finally works!!
+                 - Tailwind autocomplete finally configured
+
 Day 4:
   Plans :   - Work on Wireframe
             - Apply authentication on login and signup
-  Problems :   - 
-               - 
-  Development : - 
-                - 
-                - 
-                 - 
+  Problems :   - Can't use TailwindCSS, don;t know what's the problem
+               - Lazy Day
+  Development : - Stress
               
 Day 3:
   Plans :   - Find out how to open the tabs
@@ -31,7 +34,6 @@ Day 3:
                 - Bun is now much more powerful than the others
                 - Basic routing to signup, login and app page is established.
                  - Started developing login, signup, and app pages
-
 
 Day 2:
   Plans :   - Get started on react by learning while doing.
